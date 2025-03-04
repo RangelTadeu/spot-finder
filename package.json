@@ -12,9 +12,13 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
+    "@types/koa-router": "^7.4.8",
+    "D": "^1.0.0",
     "axios": "^1.8.1",
     "cheerio": "^1.0.0",
     "date-fns": "^4.1.0",
+    "koa": "^2.16.0",
+    "koa-router": "^13.0.1",
     "puppeteer": "^24.3.1"
   }
 }
